@@ -26,10 +26,10 @@
     "test": "node test/test.js"
   },
   "peerDependencies": {
-    "grunt": ">=0.4"
+ 
   },
   "devDependencies": {
-    "grunt": ">=0.4"
+   
   },
   "keywords": [
     "grunt",
